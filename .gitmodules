@@ -1,0 +1,3 @@
+[submodule "cadence-java-samples"]
+	path = cadence-java-samples
+	url = https://github.com/ashrafhussain17/cadence-java-sample.git
